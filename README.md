@@ -19,14 +19,14 @@
 
 *Please note that these are github metrics of which languages i have the most code on github, it's a feature of Anurag Hazra's [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Teethew/ProjetoIntegrador">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
 </a>    
 
 
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Teethew/teethew.github.io">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=teethew.github.io&theme=midnight-purple" />
 </a>
