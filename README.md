@@ -7,8 +7,7 @@
 </a>
 
 
-
-<br>
+&nbsp;
 
 - 👨‍💻 You can also find me on [LinkedIn](//linkedin.com/in/taraujocrispim) and [Discord](https://discord.gg/fsu6yyC)
 - 🔭 I’m currently working on REST APIs and websites Front-end Development
