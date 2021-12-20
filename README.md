@@ -10,12 +10,12 @@
 &nbsp;
 
 - 👨‍💻 You can also find me on [LinkedIn](//linkedin.com/in/taraujocrispim) and [Discord](https://discord.gg/fsu6yyC)
-- 🔭 I’m currently working on REST APIs and websites Front-end Development
-- 🌱 I’m currently learning Java, Node.js, Angular and I intend to learn React-native and Ionic in the future
+- 🔭 I’m currently working on REST APIs and DevOps
+- 🌱 I’m currently learning Java, Node.js, Angular, React and Cloud based technologies
 - 👯 I’m looking to collaborate on any kind of project that I would be helpful
 - 🤔 I’m looking for help with game development
 - 💬 Ask me about anything [here](https://github.com/Teethew/Teethew/issues)
-- ⚡ Fun fact: Programming languages that didn't come from the C family scares me...
+- ⚡ Fun fact: Purely functional programming languages scares me...
 
 *Please note that these are github metrics of which languages i have the most code on github, it's a feature of Anurag Hazra's [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
