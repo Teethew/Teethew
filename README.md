@@ -13,6 +13,6 @@ I am a kind of generalist software engineer, currently focused on developing and
 - ☁️ Designing and building cloud native solutions ⚙️
 - 📚 An adept of the SRE principles 🤓
 - ☕ Really used to working in Java RESTful services
-- 🟨 Very comfortable to work with Javascript/Typescript for many use case scenarios, from simple Node.js scripts to fullstack apps 🟦
+- 🟨 Very comfortable to work with Javascript/Typescript for many use case scenarios, from simple Node.js scripts to fullstack apps
 - 🌱 Learning some Rust and performance related subjects 🏃
 - 📲 On [LinkedIn](//linkedin.com/in/taraujocrispim), where you can contact me whatever the subject may be 😉
