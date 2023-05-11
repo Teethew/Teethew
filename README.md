@@ -1,38 +1,18 @@
-## Hello there, I'm [Thiago](//teethew.github.io) 👋
+## Hello there, welcome to my GitHub profile ✌️
 
-#### 🚀 *I am passionate about development in general.*
+[Teethew]: # (//teethew.github.io)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Teethew&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Anurag's github stats" />
-</a>
+**Who is Teethew?** 
 
+I am a kind of generalist software engineer, currently focused on developing and maintaining authentication solutions (OAuth2.0 and OpenID Connect).
 
-&nbsp;
+### Besides that, I'm also..
 
-- 👨‍💻 You can also find me on [LinkedIn](//linkedin.com/in/taraujocrispim) and [Discord](https://discord.gg/fsu6yyC)
-- 🔭 I’m currently working on REST APIs and DevOps
-- 🌱 I’m currently learning Java, Node.js, Angular, React and Cloud based technologies
-- 👯 I’m looking to collaborate on any kind of project that I would be helpful
-- 🤔 I’m looking for help with game development
-- 💬 Ask me about anything [here](https://github.com/Teethew/Teethew/issues)
-- ⚡ Fun fact: Purely functional programming languages scares me...
-
-*Please note that these are github metrics of which languages i have the most code on github, it's a feature of Anurag Hazra's [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<a href="https://github.com/Teethew/ProjetoIntegrador">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
-</a>    
-
-
-
-<a href="https://github.com/Teethew/teethew.github.io">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=teethew.github.io&theme=midnight-purple" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Teethew&layout=compact&theme=midnight-purple" />
-</a>
-
+- ✍️ Currently working on [0IDC](). Feel free to fork the project and open a PR! 😎
+- 👨‍💻 Experienced in DevOps culture 🤝
+- ☁️ Designing and building cloud native solutions ⚙️
+- 📚 An adept of the SRE principles 🤓
+- ☕ Really used to working in Java RESTful services
+- 🟨 Very comfortable to work with Javascript/Typescript for many use case scenarios, from simple Node.js scripts to fullstack apps 🟦
+- 🌱 Learning some Rust and performance related subjects 🏃
+- 📲 On [LinkedIn](//linkedin.com/in/taraujocrispim), where you can contact me whatever the subject may be 😉
